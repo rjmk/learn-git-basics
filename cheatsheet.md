@@ -21,5 +21,9 @@
 ##### Creating a new branch and moving onto it
 		git checkout -b <new branch name>
 
-
+##### Adding files to the staging area
+		git add <file name>
+		
+##### Committing changes with a message
+		git commit -m '<message>'
  
